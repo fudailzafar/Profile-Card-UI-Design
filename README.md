@@ -1,1 +1,3 @@
-# Profile Card UI Design
+# 🪪 Profile Card UI Design
+
+Welcome to the Profile Card UI Design project! This repository features a modern and responsive profile card created using HTML and CSS. The design highlights essential user information, including a profile picture, name, and brief bio, along with social media or contact links. The card is styled to adapt seamlessly to different screen sizes, ensuring a clean and professional appearance on both mobile and desktop devices. With its elegant layout and minimalist design, this profile card is perfect for personal portfolios, team member sections, or any application requiring user information display.
