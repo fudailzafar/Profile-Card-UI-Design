@@ -10,12 +10,8 @@ Welcome to the Profile Card UI Design project! This repository features a clean 
 - **User Analytics**: Displays likes, comments, and shares using icons and counters.
 - **Stylish and Minimalistic Design**: Simple yet elegant design to showcase user profile details.
 
-### How to Use
-1. Clone or download this repository.
-2. Open the `index.html` file in your browser to view the profile card.
-3. Customize the content and styling as per your needs by modifying the HTML and CSS files.
-
 ### File Structure:
+```
 
 └── Profile-Card-UI-Design/
     ├── README.md
@@ -23,15 +19,15 @@ Welcome to the Profile Card UI Design project! This repository features a clean 
     ├── index.html
     ├── package.json
     ├── vite.config.js
-    ├── public/
     └── src/
         ├── App.css
         ├── App.jsx
         ├── index.css
         ├── main.jsx
         ├── Componenets/
-        │   ├── Assests/
         │   └── UserProfileCard/
         │       ├── UserProfileCard.css
         │       └── UserProfileCard.jsx
         └── assets/
+
+```
