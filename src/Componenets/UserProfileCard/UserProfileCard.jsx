@@ -1,6 +1,6 @@
 import React from "react";
 import "./UserProfileCard.css";
-import profile_icon from "../Assests/230071601049-modified.png";
+import profile_icon from "../../assets/230071601049-modified.png";
 const UserProfileCard = () => {
   return (
     <div className="upc">
@@ -15,7 +15,7 @@ const UserProfileCard = () => {
           nam optio!
         </div>
         <div className="profile-button">
-          <a href="mailto:">Contact Me</a>
+          <a href="mailto:fudail.zafar@gmail.com">Contact Me</a>
         </div>
       </div>
     </div>
