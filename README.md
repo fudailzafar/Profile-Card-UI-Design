@@ -14,3 +14,24 @@ Welcome to the Profile Card UI Design project! This repository features a clean 
 1. Clone or download this repository.
 2. Open the `index.html` file in your browser to view the profile card.
 3. Customize the content and styling as per your needs by modifying the HTML and CSS files.
+
+### File Structure:
+
+└── Profile-Card-UI-Design/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    ├── public/
+    └── src/
+        ├── App.css
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        ├── Componenets/
+        │   ├── Assests/
+        │   └── UserProfileCard/
+        │       ├── UserProfileCard.css
+        │       └── UserProfileCard.jsx
+        └── assets/
